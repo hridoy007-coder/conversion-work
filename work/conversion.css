@@ -1,6 +1,9 @@
 /* .carousel-item img{
     height: 584px
 } */
+.banner{
+    margin-bottom: 200px;
+}
 .banner-btn{
     background-color: white;
     color: #3F87F5;
@@ -18,4 +21,8 @@
 }
 .banner-text{
     color: white;
+}
+
+.part2-text{
+    width:450px;
 }
