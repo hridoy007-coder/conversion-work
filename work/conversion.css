@@ -1,0 +1,19 @@
+/* .carousel-item img{
+    height: 584px
+} */
+.btn{
+    background-color: white;
+    color: #3F87F5;
+    border: none;
+    font-size: 16px;
+}
+.banner-title{
+    margin-left: 400px;
+    margin-right: 400px;
+    display: block;
+    position: relative;
+    margin-top: -300px;
+}
+.banner-text{
+    color: white;
+}

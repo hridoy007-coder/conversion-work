@@ -1,0 +1,29 @@
+.social a{
+    padding: 0 10px;
+}
+.img img:nth-child(2){
+    display: block;
+    position: relative;
+    border: 5px solid #ffff;
+    height: 120px;
+    width: 120px;
+    margin-left: auto;
+    margin-right: auto;
+    margin-top: -50px;
+
+}
+[class*=fa-]{
+    transition: 0.7s;
+}
+.fa-band-aid:hover{
+    color: chartreuse;
+    transition: 0.5s;
+}
+.fa-dragon:hover{
+    color: chartreuse;
+    transition: 0.5s;
+}
+.fa-cat:hover{
+    color: chartreuse;
+    transition: 0.5s;
+}
